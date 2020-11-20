@@ -13,9 +13,7 @@ The BIN  uniquely identifies the institution/bank
 - [x] Credit / Debit
 - [x] Country
 
-## Reboot13
+## GodHacker_SC
 
-[Telegram @reboot13](https://telegram.me/reboot13)
-
-[Youtube- Krutik Raut](https://youtube.com/krutikraut)
+[Telegram @reboot13](https://telegram.me/GodHacker_SC
 
